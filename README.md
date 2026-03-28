@@ -172,8 +172,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-- **Issues**: [GitHub Issues](https://github.com/chaos-collective/chaos-sort/issues)
-- **Email**: chaos-sort@sorting.dev
+- **Issues**: [GitHub Issues](https://github.com/ayash911/chaos-sort/issues)
+- **Email**: ya828197@gmail.com
 
 ---
 

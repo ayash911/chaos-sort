@@ -3,11 +3,11 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "chaos-sort-yash-test-unique"
+name = "chaos-sort"
 version = "0.1.0"
 description = "A unified, visualizable framework for 30+ sorting algorithms - from the efficient to the absurd"
 authors = [
-    {name = "The Chaos Collective", email = "chaos@sorting.dev"}
+    {name = "Ayash", email = "ya828197@gmail.com"}
 ]
 readme = "README.md"
 license = {text = "MIT"}
@@ -43,10 +43,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/chaos-collective/chaos-sort"
-Documentation = "https://chaos-sort.readthedocs.io"
-Repository = "https://github.com/chaos-collective/chaos-sort"
-"Bug Tracker" = "https://github.com/chaos-collective/chaos-sort/issues"
+Homepage = "https://github.com/ayash911/chaos-sort"
+Documentation = "https://github.com/ayash911/chaos-sort"
+Repository = "https://github.com/ayash911/chaos-sort"
+"Bug Tracker" = "https://github.com/ayash911/chaos-sort/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["chaos_sort"]
