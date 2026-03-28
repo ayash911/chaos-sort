@@ -13,8 +13,16 @@ A educational (and satirical) library of sorting algorithms, ranging from the cl
 
 ## Installation
 
+Install the stable version from PyPI:
+
 ```bash
-git clone https://github.com/chaos-collective/chaos-sort.git
+pip install chaos-sort
+```
+
+Or clone the repository for development:
+
+```bash
+git clone https://github.com/ayash911/chaos-sort.git
 cd chaos-sort
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
